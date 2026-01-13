@@ -1,15 +1,14 @@
 ## Hola, mi nombre es Joseph Llaza 👋
 
 
-Soy estudiante de Tercer Año de la Carrera de Ingenieria de Sistemas en la Universidad Catolica Santa Maria busco aprender y mejorar mis capacidades de programacion
-💻 About me
+Soy estudiante de Tercer Año de la Carrera de Ingenieria de Sistemas en la Universidad Catolica Santa Maria busco aprender y mejorar mis capacidades de programacion y de desarrollo web.
 
-👀 I’m interested in web programming
+💻 Acerca de Mi
+
+👀 Me gusta la ciberseguridad
+👀 Quiero mejorar mis capacidades de web developer
+👀 Me gusta los carros
+
 ⚡ Fun fact: I'm a second year student
-Knowledge in
 
-JavaScript Java CSS3 HTML5 Git Vim Visual Studio Code Ubuntu Javafx TypeScript NPM Vercel Neovim LaTeX GitHub Figma Markdown SQLite
 
-Learning
-
-React TailwindCSS Supabase NodeJS Next JS
