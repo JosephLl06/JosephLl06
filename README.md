@@ -1,8 +1,10 @@
 ## Hola, mi nombre es Joseph Llaza 👋
 
-<!--
-**JosephLl06/JosephLl06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Soy estudiante de Tercer Año de la Carrera de Ingenieria de Sistemas en la Universidad Catolica Santa Maria busco aprender y mejorar mis capacidades de programacion
+<!--
+JosephLl06/JosephLl06* * is a ✨ A_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
