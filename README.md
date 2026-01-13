@@ -2,17 +2,14 @@
 
 
 Soy estudiante de Tercer Año de la Carrera de Ingenieria de Sistemas en la Universidad Catolica Santa Maria busco aprender y mejorar mis capacidades de programacion
-<!--
-JosephLl06/JosephLl06* * is a ✨ A_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-Here are some ideas to get you started:
+💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I’m interested in web programming
+⚡ Fun fact: I'm a second year student
+Knowledge in
+
+JavaScript Java CSS3 HTML5 Git Vim Visual Studio Code Ubuntu Javafx TypeScript NPM Vercel Neovim LaTeX GitHub Figma Markdown SQLite
+
+Learning
+
+React TailwindCSS Supabase NodeJS Next JS
